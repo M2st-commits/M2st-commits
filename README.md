@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on some web development in java
 - 📫 How to reach me akash.k.mishra12@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: empty
+- ⚡ Fun fact: Playful
