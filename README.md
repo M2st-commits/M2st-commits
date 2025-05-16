@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Akash Kumar Mishra
+- 👋 Hi, I’m Akash Kumar Mishra an Aspiring Software Engineer specializing in Quality Assurance and learing about Software Project Management
 - 👀 I’m interested in tackling problems in java
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on web development and java specific
+- 💞️ I’m looking to collaborate on Software/Mobile Tesing and java specific projects
 - 📫 How to reach me akash.k.mishra12@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Playful
